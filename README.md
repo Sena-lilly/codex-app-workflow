@@ -1,18 +1,24 @@
 # codex-app-workflow
 
-A practical workflow kit for building, debugging, reviewing, and shipping apps with Codex.
+A practical workflow kit for building apps with Codex without losing context, safety, or release discipline.
 
-This repository provides reusable prompts, agent role templates, thread-management rules, and release checklists for developers who want to use Codex as part of a serious app development workflow.
+Use it to audit an app, implement features, investigate bugs, prepare TestFlight/App Store releases, and hand work off between long Codex sessions.
 
 ## Start Here
 
-Step 1: Read this README.
+Step 1: Copy [templates/codex/initial-audit.md](templates/codex/initial-audit.md) first if you are opening a repo for the first time.
 
-Step 2: Read the [Examples](#examples).
+Step 2: Pick your route in [docs/quickstart-paths.md](docs/quickstart-paths.md).
 
-Step 3: Pick a template from [Included Templates](#included-templates).
+Step 3: Skim the closest [example workflow](#examples) before starting a serious task.
 
-Step 4: Start your Codex thread with the selected prompt.
+Step 4: Start one focused Codex thread with the selected prompt and end it with [session-handoff.md](templates/codex/session-handoff.md).
+
+First template to copy:
+
+- [Initial audit](templates/codex/initial-audit.md) for any unfamiliar repository
+- [Feature implementation](templates/codex/implement-feature.md) when the target change is already clear
+- [Bug investigation](templates/codex/bug-investigation.md) when the root cause is unknown
 
 ## What is this?
 
@@ -45,10 +51,11 @@ This repository exists to make common Codex workflows safer and more repeatable:
 ## Quick Start
 
 1. Clone or copy this repository.
-2. Read [docs/philosophy.md](docs/philosophy.md).
-3. Start with [templates/codex/initial-audit.md](templates/codex/initial-audit.md) in a new Codex thread.
-4. Use [templates/threads/thread-splitting-rules.md](templates/threads/thread-splitting-rules.md) when work becomes too broad.
-5. Track project setup and release readiness in [progress.md](progress.md).
+2. Choose a route in [docs/quickstart-paths.md](docs/quickstart-paths.md).
+3. Start with [templates/codex/initial-audit.md](templates/codex/initial-audit.md) in a new Codex thread unless a more specific route fits.
+4. Compare your task with the [Examples](#examples).
+5. Use [templates/threads/thread-splitting-rules.md](templates/threads/thread-splitting-rules.md) when work becomes too broad.
+6. Track project setup and release readiness in [progress.md](progress.md).
 
 For release work, begin with:
 
@@ -98,7 +105,7 @@ Checklists:
 
 ## Examples
 
-Practical end-to-end examples:
+Examples show what to paste, how Codex should investigate, what output to expect, and how to hand off the session.
 
 - [iOS feature workflow](examples/ios-feature-example.md)
 - [Backend bug investigation](examples/backend-bug-investigation-example.md)
@@ -144,7 +151,7 @@ The current roadmap is organized as P0 through P8:
 
 See [docs/roadmap.md](docs/roadmap.md) and [progress.md](progress.md).
 
-For the first public-ready package, see [CHANGELOG.md](CHANGELOG.md) and [docs/release-notes-v0.1.0.md](docs/release-notes-v0.1.0.md).
+For v0.1.0 release materials, see [CHANGELOG.md](CHANGELOG.md) and [docs/release-notes-v0.1.0.md](docs/release-notes-v0.1.0.md).
 
 ## Contributing
 

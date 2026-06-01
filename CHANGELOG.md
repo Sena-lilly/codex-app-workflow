@@ -6,7 +6,7 @@ This project follows a practical release-note style for template and documentati
 
 ## v0.1.0
 
-Initial public-ready release preparation.
+Initial documentation release candidate for GitHub publication.
 
 Included:
 
@@ -16,4 +16,3 @@ Included:
 - App Store templates and checklists for App Store review, TestFlight, iOS release, privacy, and IAP readiness.
 - Safety standards for mutation safety, human confirmation, rollback planning, and sensitive information audits.
 - Real examples showing iOS feature work, backend bug investigation, App Store release preparation, and session handoff.
-

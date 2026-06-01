@@ -2,7 +2,7 @@
 
 ## What is included
 
-v0.1.0 is the first public-ready documentation release of `codex-app-workflow`.
+v0.1.0 is the first documentation release candidate of `codex-app-workflow` for GitHub publication.
 
 It includes:
 
@@ -11,7 +11,7 @@ It includes:
 - Thread-management prompts for iOS, backend, release, bugfix, and context-splitting workflows.
 - App Store, TestFlight, iOS release, backend release, privacy, IAP, and safety checklists.
 - Safety standards for side-effect operations, human confirmation, rollback planning, and sensitive information audits.
-- Example workflows that show realistic prompts, expected Codex behavior, expected outputs, and handoff examples.
+- Example workflows that show practical prompts, expected Codex behavior, expected outputs, and handoff examples.
 
 ## Who should use this
 
@@ -26,11 +26,12 @@ This release is intended for:
 ## Known limitations
 
 - This repository is a workflow kit, not an executable app framework.
-- The templates are intentionally generic and should be adapted to each codebase before use.
+- The templates are intentionally generic and should be reviewed and adapted to each codebase before use.
 - The App Store, TestFlight, privacy, legal, and IAP materials are operational checklists, not legal advice.
 - The release does not automate GitHub publishing, App Store Connect actions, TestFlight operations, external API calls, or production deployments.
 - Example projects use fictional names only and are not complete application repositories.
 - Public article and promotion materials are still planned for a later phase.
+- Real-world validation is still limited and should improve through use on more projects.
 
 ## Roadmap
 
@@ -46,4 +47,3 @@ Longer-term priorities:
 - Add more domain-specific examples for SwiftUI, StoreKit, FastAPI, authentication, and database migrations.
 - Expand release-management guidance for multi-platform apps.
 - Collect community feedback and stabilize the templates for v1.0.
-

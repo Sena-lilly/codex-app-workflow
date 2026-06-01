@@ -81,3 +81,4 @@ Use this checklist to track the path from repository bootstrap to v1.0.
 - [ ] P8-4 Safety review
 - [x] P8-5 Release notes draft
 - [x] P8-6 Tag and release plan
+- [x] P8-7 Quickstart paths
