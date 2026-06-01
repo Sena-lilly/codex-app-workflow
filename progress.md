@@ -67,10 +67,10 @@ Use this checklist to track the path from repository bootstrap to v1.0.
 
 ## P7: Public Articles / Promotion
 
-- [ ] P7-1 Project announcement draft
-- [ ] P7-2 Blog article: Codex app workflow
-- [ ] P7-3 Blog article: human confirmation rules
-- [ ] P7-4 Social post examples
+- [x] P7-1 Project announcement draft
+- [x] P7-2 Blog article: Codex app workflow
+- [x] P7-3 Blog article: human confirmation rules
+- [x] P7-4 Social post examples
 - [ ] P7-5 Demo repository or walkthrough
 
 ## P8: Release Preparation
@@ -82,3 +82,5 @@ Use this checklist to track the path from repository bootstrap to v1.0.
 - [x] P8-5 Release notes draft
 - [x] P8-6 Tag and release plan
 - [x] P8-7 Quickstart paths
+- [x] P8-8 README workflow diagram
+- [x] P8-9 Public backlog

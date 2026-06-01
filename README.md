@@ -4,6 +4,32 @@ A practical workflow kit for building apps with Codex without losing context, sa
 
 Use it to audit an app, implement features, investigate bugs, prepare TestFlight/App Store releases, and hand work off between long Codex sessions.
 
+## Workflow At A Glance
+
+```text
+Developer
+    |
+    v
+Choose a template
+    |
+    v
+Start Codex thread
+    |
+    v
+Audit / Implement / Investigate / Release
+    |
+    v
+Human confirmation for side effects
+    |
+    v
+Session handoff
+    |
+    v
+Ship safely
+```
+
+The templates are designed to keep each Codex thread focused, make side-effect operations explicit, and leave a handoff that another session can continue from.
+
 ## Start Here
 
 Step 1: Copy [templates/codex/initial-audit.md](templates/codex/initial-audit.md) first if you are opening a repo for the first time.
@@ -149,7 +175,7 @@ The current roadmap is organized as P0 through P8:
 - P7: Public Articles / Promotion
 - P8: Release Preparation
 
-See [docs/roadmap.md](docs/roadmap.md) and [progress.md](progress.md).
+See [docs/roadmap.md](docs/roadmap.md), [docs/backlog.md](docs/backlog.md), and [progress.md](progress.md).
 
 For v0.1.0 release materials, see [CHANGELOG.md](CHANGELOG.md) and [docs/release-notes-v0.1.0.md](docs/release-notes-v0.1.0.md).
 
