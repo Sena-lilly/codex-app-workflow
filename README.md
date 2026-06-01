@@ -163,7 +163,7 @@ When a side-effect operation is needed, present:
 
 ## Roadmap
 
-The current roadmap is organized as P0 through P8:
+The current roadmap is organized as P0 through P9:
 
 - P0: Repository Bootstrap
 - P1: Core Codex Templates
@@ -174,6 +174,7 @@ The current roadmap is organized as P0 through P8:
 - P6: Real Examples
 - P7: Public Articles / Promotion
 - P8: Release Preparation
+- P9: Community Validation
 
 See [docs/roadmap.md](docs/roadmap.md), [docs/backlog.md](docs/backlog.md), and [progress.md](progress.md).
 

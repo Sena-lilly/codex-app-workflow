@@ -84,3 +84,14 @@ Use this checklist to track the path from repository bootstrap to v1.0.
 - [x] P8-7 Quickstart paths
 - [x] P8-8 README workflow diagram
 - [x] P8-9 Public backlog
+
+## P9: Community Validation
+
+- [x] P9-1 Public repository created
+- [x] P9-2 v0.1.0 release published
+- [x] P9-3 GitHub About / Topics prepared
+- [x] P9-4 Initial issue drafts prepared
+- [x] P9-5 First announcement draft prepared
+- [ ] P9-6 First external feedback
+- [ ] P9-7 First external star
+- [ ] P9-8 First external issue

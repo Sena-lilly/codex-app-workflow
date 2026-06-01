@@ -216,3 +216,18 @@ Deliverables:
 - Release notes
 - Tag and release plan
 - Quickstart paths
+
+## P9: Community Validation
+
+Goal: Improve the public repository after launch through clear GitHub settings, initial issue planning, announcement drafts, and early external feedback.
+
+Deliverables:
+
+- Public repository created
+- v0.1.0 release published
+- GitHub About and Topics prepared
+- Initial issue drafts prepared
+- First announcement draft prepared
+- First external feedback
+- First external star
+- First external issue

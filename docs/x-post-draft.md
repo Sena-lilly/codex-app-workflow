@@ -1,24 +1,26 @@
 # X Post Draft
 
-公開後に `<GitHub repository URL>` を実際のURLへ差し替えてください。
+公開済みURL:
+
+https://github.com/Sena-lilly/codex-app-workflow
 
 ## Single Post
 
-Codexでアプリ開発を進めるためのOSSテンプレート `codex-app-workflow` を作りました。
+Codexを使ったアプリ開発をこれから整理したい人向けに、OSSテンプレート `codex-app-workflow` を公開しました。
 
 実装、バグ調査、スレッド分割、TestFlight/App Store準備、handoff、安全確認のプロンプトとチェックリストをまとめています。
 
-GitHub: `<GitHub repository URL>`
+GitHub: https://github.com/Sena-lilly/codex-app-workflow
 
 ## Thread Draft
 
 ### Post 1
 
-Codexでアプリ開発を進めるためのOSSテンプレート `codex-app-workflow` を作りました。
+Codexを使ったアプリ開発をこれから整理したい人向けに、OSSテンプレート `codex-app-workflow` を公開しました。
 
 実装だけでなく、調査、レビュー、リリース準備、長いセッションのhandoffまで扱うワークフローキットです。
 
-GitHub: `<GitHub repository URL>`
+GitHub: https://github.com/Sena-lilly/codex-app-workflow
 
 ### Post 2
 
@@ -32,6 +34,7 @@ Codexは便利ですが、長い開発では文脈が混ざったり、リリー
 
 対象:
 
+- Codexをアプリ開発で使い始めたい人
 - iOS個人開発者
 - SwiftUI開発者
 - Backend付きアプリ開発者
@@ -75,7 +78,7 @@ Known limitations:
 
 まずは `README.md` の Start Here と `docs/quickstart-paths.md` から見るのがおすすめです。
 
-GitHub: `<GitHub repository URL>`
+GitHub: https://github.com/Sena-lilly/codex-app-workflow
 
 ## Short Variants
 
@@ -85,7 +88,7 @@ Codexでアプリ開発を進めるためのテンプレート集を作りまし
 
 実装、バグ調査、release準備、thread分割、human confirmation、handoffを扱います。
 
-GitHub: `<GitHub repository URL>`
+GitHub: https://github.com/Sena-lilly/codex-app-workflow
 
 ### Variant B
 
@@ -93,7 +96,7 @@ Codexにアプリ開発を手伝ってもらうとき、毎回プロンプトや
 
 `codex-app-workflow`
 
-GitHub: `<GitHub repository URL>`
+GitHub: https://github.com/Sena-lilly/codex-app-workflow
 
 ### Variant C
 
@@ -101,5 +104,4 @@ Codex向けのApp Store/TestFlight準備テンプレート、thread管理、agen
 
 まずは `initial-audit.md` から使えます。
 
-GitHub: `<GitHub repository URL>`
-
+GitHub: https://github.com/Sena-lilly/codex-app-workflow
